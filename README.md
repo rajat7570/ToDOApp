@@ -3,4 +3,7 @@ User personal online todo website created by using Django backhand framework.
 
 Some Highlights....
 
-![](images/you-picture.png)
+![](Screenshots/Home.png)
+![](Screenshots/Registration.png)
+![](Screenshots/Login.png)
+![](Screenshots/Dashboard.png)
